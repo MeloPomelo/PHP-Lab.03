@@ -1,2 +1,2 @@
-PHP Lab.03
+Programming in PHP. Laboratory work №3
 ==
